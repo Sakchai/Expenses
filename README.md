@@ -1,6 +1,11 @@
 # Expense Tracker
 expenses tracker is a simple website that allows you to keep track of your expenses and give you an overall view about what you are spending money on using C#, .NET core 8.0, JWT, Identity, React js 
 
+## Give a Star! :star:
+
+   If you like or are using this project to learn or start your solution, please give it a star. Thanks!
+   Or if you're feeling really generous, we now support GitHub sponsorships - see the button above.
+   
 ## Installation
 To install ExpenseTracker, follow these steps:
 
